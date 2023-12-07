@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-col{
+    @apply w-16 p-2   border border-gray-300 rounded appearance-none
+}
+
+.td{
+    @apply border border-gray-400 p-2
+}
